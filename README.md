@@ -14,7 +14,7 @@ User interface:
 
     ListView: Displays available WiFi networks including SSID, MAC address (BSSID), signal quality, security status and network type.
     TextBox: Displays the currently tested password.
-    ComboBox: Allows you to select the length of passwords to test.
+    ComboBox: Allows you to select the length /Time of passwords to test.
     Buttons: Start and stop the bruteforce process and perform manual network scans.
 
 Use:
