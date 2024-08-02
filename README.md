@@ -29,3 +29,6 @@ This app is intended solely for security audits and authorized use on your own n
 
 Contact:
 If you have any questions or need support, please contact [our customer service.](https://cdn-developer.4lima.de/support-kontakt)
+
+![Screenshot 2024-08-02 153157](https://github.com/user-attachments/assets/ded0d069-763b-4b00-bcc3-ac032f1282e7)
+![Screenshot 2024-08-02 153256](https://github.com/user-attachments/assets/302c3296-2183-407c-8360-fc5c45200096)
